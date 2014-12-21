@@ -1,0 +1,4 @@
+git commit –m "Add sample markdown file HelloWorld.md"
+
+
+git clone origin https://github.com/ericjwin/datasciencecoursera.git
